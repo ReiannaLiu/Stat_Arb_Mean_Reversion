@@ -68,7 +68,6 @@ This project implements a **statistical arbitrage mean-reversion strategy** usin
 ## **Key Files**
 
 * **`pair_trading.ipynb`** – Full pipeline: data collection, cointegration tests, signal generation, backtesting.
-* **`utils.py`** – Helper functions for data cleaning, Z-score computation, and performance metrics.
 * **`README.md`** – Project overview (this file).
 
 ---
